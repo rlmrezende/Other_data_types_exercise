@@ -1,1 +1,1 @@
-# Other_data_types_exercise
+# Other_data_types_exercises
